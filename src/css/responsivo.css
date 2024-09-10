@@ -42,6 +42,10 @@
         height: 75px;
     }
 
+    main .personagem .imagem {
+        height: 75%;
+    }
+
     .conteudo .nome-personagem {
         font-size: 24px;
     }
@@ -52,10 +56,10 @@
 
     .botoes {
         padding: 20px;
-        top: -5%;
+        top: -15%;
     }
 
-    .botao .botao img {
-        max-width: 40px;
+    .botoes .botao img {
+        max-width: 50px;
     }
 }
